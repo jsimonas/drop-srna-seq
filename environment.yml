@@ -1,0 +1,32 @@
+# conda env create -f environment.yml
+name: drop-srna-seq-1.0dev
+channels:
+  - conda-forge
+  - bioconda
+  - Freenome
+  - defaults
+  
+dependencies:
+  - conda-forge::python=3.7.3
+  - conda-forge::markdown=3.1.1
+  - conda-forge::pymdown-extensions=6.0
+  - conda-forge::pygments=2.5.2
+  - conda-forge::graphviz=2.42.3
+  - conda-forge::pandas=1.1.5
+  - conda-forge::numpy=1.19.2
+  - conda-forge::openpyxl=3.0.9
+  - bioconda::fastqc=0.11.8
+  - bioconda::multiqc=1.9
+  - bioconda::star=2.7.10b
+  - bioconda::samtools=1.11
+  - bioconda::seqkit=2.0.0
+  - bioconda::cutadapt=4.2
+  - bioconda::subread=2.0.1
+  - bioconda::seqbuster=3.5
+  - bioconda::picard=2.27.5
+  - bioconda::ucsc-gtftogenepred=377
+  - bioconda::bedops=2.4.41
+  - Freenome::bcl2fastq=2.20
+  - pip
+  - pip:
+    - git+https://github.com/hitaandrea/MGcount.git

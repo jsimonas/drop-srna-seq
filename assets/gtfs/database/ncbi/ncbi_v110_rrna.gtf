@@ -1,0 +1,177 @@
+##gff-version 2
+##source-version rtracklayer 1.56.1
+##date 2023-01-17
+chr1	BestRefSeq	gene	228610266	228610386	.	-	.	gene_id "100169751"; gene_biotype "rRNA"; gene_name "RNA5S1";
+chr1	BestRefSeq	transcript	228610266	228610386	.	-	.	gene_id "100169751"; gene_biotype "rRNA"; gene_name "RNA5S1"; transcript_id "100169751.t"; transcript_biotype "rRNA"; transcript_name "RNA5S1";
+chr1	BestRefSeq	exon	228610266	228610386	.	-	.	gene_id "100169751"; gene_biotype "rRNA"; gene_name "RNA5S1"; transcript_id "100169751.t"; transcript_biotype "rRNA"; transcript_name "RNA5S1"; exon_id "100169751.t.e"
+chr1	BestRefSeq	gene	228612507	228612627	.	-	.	gene_id "100169753"; gene_biotype "rRNA"; gene_name "RNA5S2";
+chr1	BestRefSeq	transcript	228612507	228612627	.	-	.	gene_id "100169753"; gene_biotype "rRNA"; gene_name "RNA5S2"; transcript_id "100169753.t"; transcript_biotype "rRNA"; transcript_name "RNA5S2";
+chr1	BestRefSeq	exon	228612507	228612627	.	-	.	gene_id "100169753"; gene_biotype "rRNA"; gene_name "RNA5S2"; transcript_id "100169753.t"; transcript_biotype "rRNA"; transcript_name "RNA5S2"; exon_id "100169753.t.e"
+chr1	BestRefSeq	gene	228614748	228614868	.	-	.	gene_id "100169754"; gene_biotype "rRNA"; gene_name "RNA5S3";
+chr1	BestRefSeq	transcript	228614748	228614868	.	-	.	gene_id "100169754"; gene_biotype "rRNA"; gene_name "RNA5S3"; transcript_id "100169754.t"; transcript_biotype "rRNA"; transcript_name "RNA5S3";
+chr1	BestRefSeq	exon	228614748	228614868	.	-	.	gene_id "100169754"; gene_biotype "rRNA"; gene_name "RNA5S3"; transcript_id "100169754.t"; transcript_biotype "rRNA"; transcript_name "RNA5S3"; exon_id "100169754.t.e"
+chr1	BestRefSeq	gene	228616989	228617109	.	-	.	gene_id "100169755"; gene_biotype "rRNA"; gene_name "RNA5S4";
+chr1	BestRefSeq	transcript	228616989	228617109	.	-	.	gene_id "100169755"; gene_biotype "rRNA"; gene_name "RNA5S4"; transcript_id "100169755.t"; transcript_biotype "rRNA"; transcript_name "RNA5S4";
+chr1	BestRefSeq	exon	228616989	228617109	.	-	.	gene_id "100169755"; gene_biotype "rRNA"; gene_name "RNA5S4"; transcript_id "100169755.t"; transcript_biotype "rRNA"; transcript_name "RNA5S4"; exon_id "100169755.t.e"
+chr1	BestRefSeq	gene	228619230	228619350	.	-	.	gene_id "100169756"; gene_biotype "rRNA"; gene_name "RNA5S5";
+chr1	BestRefSeq	transcript	228619230	228619350	.	-	.	gene_id "100169756"; gene_biotype "rRNA"; gene_name "RNA5S5"; transcript_id "100169756.t"; transcript_biotype "rRNA"; transcript_name "RNA5S5";
+chr1	BestRefSeq	exon	228619230	228619350	.	-	.	gene_id "100169756"; gene_biotype "rRNA"; gene_name "RNA5S5"; transcript_id "100169756.t"; transcript_biotype "rRNA"; transcript_name "RNA5S5"; exon_id "100169756.t.e"
+chr1	BestRefSeq	gene	228621445	228621565	.	-	.	gene_id "100169757"; gene_biotype "rRNA"; gene_name "RNA5S6";
+chr1	BestRefSeq	transcript	228621445	228621565	.	-	.	gene_id "100169757"; gene_biotype "rRNA"; gene_name "RNA5S6"; transcript_id "100169757.t"; transcript_biotype "rRNA"; transcript_name "RNA5S6";
+chr1	BestRefSeq	exon	228621445	228621565	.	-	.	gene_id "100169757"; gene_biotype "rRNA"; gene_name "RNA5S6"; transcript_id "100169757.t"; transcript_biotype "rRNA"; transcript_name "RNA5S6"; exon_id "100169757.t.e"
+chr1	BestRefSeq	gene	228623665	228623785	.	-	.	gene_id "100169758"; gene_biotype "rRNA"; gene_name "RNA5S7";
+chr1	BestRefSeq	transcript	228623665	228623785	.	-	.	gene_id "100169758"; gene_biotype "rRNA"; gene_name "RNA5S7"; transcript_id "100169758.t"; transcript_biotype "rRNA"; transcript_name "RNA5S7";
+chr1	BestRefSeq	exon	228623665	228623785	.	-	.	gene_id "100169758"; gene_biotype "rRNA"; gene_name "RNA5S7"; transcript_id "100169758.t"; transcript_biotype "rRNA"; transcript_name "RNA5S7"; exon_id "100169758.t.e"
+chr1	BestRefSeq	gene	228625907	228626027	.	-	.	gene_id "100169759"; gene_biotype "rRNA"; gene_name "RNA5S8";
+chr1	BestRefSeq	transcript	228625907	228626027	.	-	.	gene_id "100169759"; gene_biotype "rRNA"; gene_name "RNA5S8"; transcript_id "100169759.t"; transcript_biotype "rRNA"; transcript_name "RNA5S8";
+chr1	BestRefSeq	exon	228625907	228626027	.	-	.	gene_id "100169759"; gene_biotype "rRNA"; gene_name "RNA5S8"; transcript_id "100169759.t"; transcript_biotype "rRNA"; transcript_name "RNA5S8"; exon_id "100169759.t.e"
+chr1	BestRefSeq	gene	228628146	228628266	.	-	.	gene_id "100169760"; gene_biotype "rRNA"; gene_name "RNA5S9";
+chr1	BestRefSeq	transcript	228628146	228628266	.	-	.	gene_id "100169760"; gene_biotype "rRNA"; gene_name "RNA5S9"; transcript_id "100169760.t"; transcript_biotype "rRNA"; transcript_name "RNA5S9";
+chr1	BestRefSeq	exon	228628146	228628266	.	-	.	gene_id "100169760"; gene_biotype "rRNA"; gene_name "RNA5S9"; transcript_id "100169760.t"; transcript_biotype "rRNA"; transcript_name "RNA5S9"; exon_id "100169760.t.e"
+chr1	BestRefSeq	gene	228630388	228630508	.	-	.	gene_id "100169761"; gene_biotype "rRNA"; gene_name "RNA5S10";
+chr1	BestRefSeq	transcript	228630388	228630508	.	-	.	gene_id "100169761"; gene_biotype "rRNA"; gene_name "RNA5S10"; transcript_id "100169761.t"; transcript_biotype "rRNA"; transcript_name "RNA5S10";
+chr1	BestRefSeq	exon	228630388	228630508	.	-	.	gene_id "100169761"; gene_biotype "rRNA"; gene_name "RNA5S10"; transcript_id "100169761.t"; transcript_biotype "rRNA"; transcript_name "RNA5S10"; exon_id "100169761.t.e"
+chr1	BestRefSeq	gene	228632629	228632749	.	-	.	gene_id "100169762"; gene_biotype "rRNA"; gene_name "RNA5S11";
+chr1	BestRefSeq	transcript	228632629	228632749	.	-	.	gene_id "100169762"; gene_biotype "rRNA"; gene_name "RNA5S11"; transcript_id "100169762.t"; transcript_biotype "rRNA"; transcript_name "RNA5S11";
+chr1	BestRefSeq	exon	228632629	228632749	.	-	.	gene_id "100169762"; gene_biotype "rRNA"; gene_name "RNA5S11"; transcript_id "100169762.t"; transcript_biotype "rRNA"; transcript_name "RNA5S11"; exon_id "100169762.t.e"
+chr1	BestRefSeq	gene	228634869	228634989	.	-	.	gene_id "100169763"; gene_biotype "rRNA"; gene_name "RNA5S12";
+chr1	BestRefSeq	transcript	228634869	228634989	.	-	.	gene_id "100169763"; gene_biotype "rRNA"; gene_name "RNA5S12"; transcript_id "100169763.t"; transcript_biotype "rRNA"; transcript_name "RNA5S12";
+chr1	BestRefSeq	exon	228634869	228634989	.	-	.	gene_id "100169763"; gene_biotype "rRNA"; gene_name "RNA5S12"; transcript_id "100169763.t"; transcript_biotype "rRNA"; transcript_name "RNA5S12"; exon_id "100169763.t.e"
+chr1	BestRefSeq	gene	228637094	228637214	.	-	.	gene_id "100169764"; gene_biotype "rRNA"; gene_name "RNA5S13";
+chr1	BestRefSeq	transcript	228637094	228637214	.	-	.	gene_id "100169764"; gene_biotype "rRNA"; gene_name "RNA5S13"; transcript_id "100169764.t"; transcript_biotype "rRNA"; transcript_name "RNA5S13";
+chr1	BestRefSeq	exon	228637094	228637214	.	-	.	gene_id "100169764"; gene_biotype "rRNA"; gene_name "RNA5S13"; transcript_id "100169764.t"; transcript_biotype "rRNA"; transcript_name "RNA5S13"; exon_id "100169764.t.e"
+chr1	BestRefSeq	gene	228639335	228639455	.	-	.	gene_id "100169765"; gene_biotype "rRNA"; gene_name "RNA5S14";
+chr1	BestRefSeq	transcript	228639335	228639455	.	-	.	gene_id "100169765"; gene_biotype "rRNA"; gene_name "RNA5S14"; transcript_id "100169765.t"; transcript_biotype "rRNA"; transcript_name "RNA5S14";
+chr1	BestRefSeq	exon	228639335	228639455	.	-	.	gene_id "100169765"; gene_biotype "rRNA"; gene_name "RNA5S14"; transcript_id "100169765.t"; transcript_biotype "rRNA"; transcript_name "RNA5S14"; exon_id "100169765.t.e"
+chr1	BestRefSeq	gene	228641566	228641686	.	-	.	gene_id "100169766"; gene_biotype "rRNA"; gene_name "RNA5S15";
+chr1	BestRefSeq	transcript	228641566	228641686	.	-	.	gene_id "100169766"; gene_biotype "rRNA"; gene_name "RNA5S15"; transcript_id "100169766.t"; transcript_biotype "rRNA"; transcript_name "RNA5S15";
+chr1	BestRefSeq	exon	228641566	228641686	.	-	.	gene_id "100169766"; gene_biotype "rRNA"; gene_name "RNA5S15"; transcript_id "100169766.t"; transcript_biotype "rRNA"; transcript_name "RNA5S15"; exon_id "100169766.t.e"
+chr1	BestRefSeq	gene	228643807	228643927	.	-	.	gene_id "100169767"; gene_biotype "rRNA"; gene_name "RNA5S16";
+chr1	BestRefSeq	transcript	228643807	228643927	.	-	.	gene_id "100169767"; gene_biotype "rRNA"; gene_name "RNA5S16"; transcript_id "100169767.t"; transcript_biotype "rRNA"; transcript_name "RNA5S16";
+chr1	BestRefSeq	exon	228643807	228643927	.	-	.	gene_id "100169767"; gene_biotype "rRNA"; gene_name "RNA5S16"; transcript_id "100169767.t"; transcript_biotype "rRNA"; transcript_name "RNA5S16"; exon_id "100169767.t.e"
+chr1	BestRefSeq	gene	228646038	228646158	.	-	.	gene_id "100169768"; gene_biotype "rRNA"; gene_name "RNA5S17";
+chr1	BestRefSeq	transcript	228646038	228646158	.	-	.	gene_id "100169768"; gene_biotype "rRNA"; gene_name "RNA5S17"; transcript_id "100169768.t"; transcript_biotype "rRNA"; transcript_name "RNA5S17";
+chr1	BestRefSeq	exon	228646038	228646158	.	-	.	gene_id "100169768"; gene_biotype "rRNA"; gene_name "RNA5S17"; transcript_id "100169768.t"; transcript_biotype "rRNA"; transcript_name "RNA5S17"; exon_id "100169768.t.e"
+chr21	BestRefSeq	gene	8205988	8219302	.	+	.	gene_id "109864279"; gene_biotype "rRNA"; gene_name "RNA45SN2";
+chr21	BestRefSeq	transcript	8205988	8219302	.	+	.	gene_id "109864279"; gene_biotype "rRNA"; gene_name "RNA45SN2"; transcript_id "109864279.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN2";
+chr21	BestRefSeq	exon	8205988	8219302	.	+	.	gene_id "109864279"; gene_biotype "rRNA"; gene_name "RNA45SN2"; transcript_id "109864279.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN2"; exon_id "109864279.t.e"
+chr21	BestRefSeq	gene	8209631	8211499	.	+	.	gene_id "109864280"; gene_biotype "rRNA"; gene_name "RNA18SN2";
+chr21	BestRefSeq	transcript	8209631	8211499	.	+	.	gene_id "109864280"; gene_biotype "rRNA"; gene_name "RNA18SN2"; transcript_id "109864280.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN2";
+chr21	BestRefSeq	exon	8209631	8211499	.	+	.	gene_id "109864280"; gene_biotype "rRNA"; gene_name "RNA18SN2"; transcript_id "109864280.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN2"; exon_id "109864280.t.e"
+chr21	BestRefSeq	gene	8212571	8212727	.	+	.	gene_id "109864281"; gene_biotype "rRNA"; gene_name "RNA5-8SN2";
+chr21	BestRefSeq	transcript	8212571	8212727	.	+	.	gene_id "109864281"; gene_biotype "rRNA"; gene_name "RNA5-8SN2"; transcript_id "109864281.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN2";
+chr21	BestRefSeq	exon	8212571	8212727	.	+	.	gene_id "109864281"; gene_biotype "rRNA"; gene_name "RNA5-8SN2"; transcript_id "109864281.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN2"; exon_id "109864281.t.e"
+chr21	BestRefSeq	gene	8213888	8218941	.	+	.	gene_id "109864282"; gene_biotype "rRNA"; gene_name "RNA28SN2";
+chr21	BestRefSeq	transcript	8213888	8218941	.	+	.	gene_id "109864282"; gene_biotype "rRNA"; gene_name "RNA28SN2"; transcript_id "109864282.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN2";
+chr21	BestRefSeq	exon	8213888	8218941	.	+	.	gene_id "109864282"; gene_biotype "rRNA"; gene_name "RNA28SN2"; transcript_id "109864282.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN2"; exon_id "109864282.t.e"
+chr21	BestRefSeq	gene	8389035	8402343	.	+	.	gene_id "109910379"; gene_biotype "rRNA"; gene_name "RNA45SN3";
+chr21	BestRefSeq	transcript	8389035	8402343	.	+	.	gene_id "109910379"; gene_biotype "rRNA"; gene_name "RNA45SN3"; transcript_id "109910379.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN3";
+chr21	BestRefSeq	exon	8389035	8402343	.	+	.	gene_id "109910379"; gene_biotype "rRNA"; gene_name "RNA45SN3"; transcript_id "109910379.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN3"; exon_id "109910379.t.e"
+chr21	BestRefSeq	gene	8392666	8394534	.	+	.	gene_id "109910380"; gene_biotype "rRNA"; gene_name "RNA18SN3";
+chr21	BestRefSeq	transcript	8392666	8394534	.	+	.	gene_id "109910380"; gene_biotype "rRNA"; gene_name "RNA18SN3"; transcript_id "109910380.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN3";
+chr21	BestRefSeq	exon	8392666	8394534	.	+	.	gene_id "109910380"; gene_biotype "rRNA"; gene_name "RNA18SN3"; transcript_id "109910380.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN3"; exon_id "109910380.t.e"
+chr21	BestRefSeq	gene	8395606	8395762	.	+	.	gene_id "109910381"; gene_biotype "rRNA"; gene_name "RNA5-8SN3";
+chr21	BestRefSeq	transcript	8395606	8395762	.	+	.	gene_id "109910381"; gene_biotype "rRNA"; gene_name "RNA5-8SN3"; transcript_id "109910381.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN3";
+chr21	BestRefSeq	exon	8395606	8395762	.	+	.	gene_id "109910381"; gene_biotype "rRNA"; gene_name "RNA5-8SN3"; transcript_id "109910381.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN3"; exon_id "109910381.t.e"
+chr21	BestRefSeq	gene	8396926	8401980	.	+	.	gene_id "109910382"; gene_biotype "rRNA"; gene_name "RNA28SN3";
+chr21	BestRefSeq	transcript	8396926	8401980	.	+	.	gene_id "109910382"; gene_biotype "rRNA"; gene_name "RNA28SN3"; transcript_id "109910382.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN3";
+chr21	BestRefSeq	exon	8396926	8401980	.	+	.	gene_id "109910382"; gene_biotype "rRNA"; gene_name "RNA28SN3"; transcript_id "109910382.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN3"; exon_id "109910382.t.e"
+chr21	BestRefSeq	gene	8433222	8446572	.	+	.	gene_id "106631777"; gene_biotype "rRNA"; gene_name "RNA45SN1";
+chr21	BestRefSeq	transcript	8433222	8446572	.	+	.	gene_id "106631777"; gene_biotype "rRNA"; gene_name "RNA45SN1"; transcript_id "106631777.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN1";
+chr21	BestRefSeq	exon	8433222	8446572	.	+	.	gene_id "106631777"; gene_biotype "rRNA"; gene_name "RNA45SN1"; transcript_id "106631777.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN1"; exon_id "106631777.t.e"
+chr21	BestRefSeq	gene	8436876	8438744	.	+	.	gene_id "106631781"; gene_biotype "rRNA"; gene_name "RNA18SN1";
+chr21	BestRefSeq	transcript	8436876	8438744	.	+	.	gene_id "106631781"; gene_biotype "rRNA"; gene_name "RNA18SN1"; transcript_id "106631781.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN1";
+chr21	BestRefSeq	exon	8436876	8438744	.	+	.	gene_id "106631781"; gene_biotype "rRNA"; gene_name "RNA18SN1"; transcript_id "106631781.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN1"; exon_id "106631781.t.e"
+chr21	BestRefSeq	gene	8439822	8439978	.	+	.	gene_id "106632260"; gene_biotype "rRNA"; gene_name "RNA5-8SN1";
+chr21	BestRefSeq	transcript	8439822	8439978	.	+	.	gene_id "106632260"; gene_biotype "rRNA"; gene_name "RNA5-8SN1"; transcript_id "106632260.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN1";
+chr21	BestRefSeq	exon	8439822	8439978	.	+	.	gene_id "106632260"; gene_biotype "rRNA"; gene_name "RNA5-8SN1"; transcript_id "106632260.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN1"; exon_id "106632260.t.e"
+chr21	BestRefSeq	gene	8441146	8446211	.	+	.	gene_id "106632264"; gene_biotype "rRNA"; gene_name "RNA28SN1";
+chr21	BestRefSeq	transcript	8441146	8446211	.	+	.	gene_id "106632264"; gene_biotype "rRNA"; gene_name "RNA28SN1"; transcript_id "106632264.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN1";
+chr21	BestRefSeq	exon	8441146	8446211	.	+	.	gene_id "106632264"; gene_biotype "rRNA"; gene_name "RNA28SN1"; transcript_id "106632264.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN1"; exon_id "106632264.t.e"
+chr22	BestRefSeq	gene	122273	135645	.	+	.	gene_id "109864271"; gene_biotype "rRNA"; gene_name "RNA45SN4";
+chr22	BestRefSeq	transcript	122273	135645	.	+	.	gene_id "109864271"; gene_biotype "rRNA"; gene_name "RNA45SN4"; transcript_id "109864271.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN4";
+chr22	BestRefSeq	exon	122273	135645	.	+	.	gene_id "109864271"; gene_biotype "rRNA"; gene_name "RNA45SN4"; transcript_id "109864271.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN4"; exon_id "109864271.t.e"
+chr22	BestRefSeq	gene	125931	127799	.	+	.	gene_id "109864273"; gene_biotype "rRNA"; gene_name "RNA18SN4";
+chr22	BestRefSeq	transcript	125931	127799	.	+	.	gene_id "109864273"; gene_biotype "rRNA"; gene_name "RNA18SN4"; transcript_id "109864273.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN4";
+chr22	BestRefSeq	exon	125931	127799	.	+	.	gene_id "109864273"; gene_biotype "rRNA"; gene_name "RNA18SN4"; transcript_id "109864273.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN4"; exon_id "109864273.t.e"
+chr22	BestRefSeq	gene	128877	129032	.	+	.	gene_id "109864274"; gene_biotype "rRNA"; gene_name "RNA5-8SN4";
+chr22	BestRefSeq	transcript	128877	129032	.	+	.	gene_id "109864274"; gene_biotype "rRNA"; gene_name "RNA5-8SN4"; transcript_id "109864274.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN4";
+chr22	BestRefSeq	exon	128877	129032	.	+	.	gene_id "109864274"; gene_biotype "rRNA"; gene_name "RNA5-8SN4"; transcript_id "109864274.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN4"; exon_id "109864274.t.e"
+chr22	BestRefSeq	gene	130204	135280	.	+	.	gene_id "109864272"; gene_biotype "rRNA"; gene_name "RNA28SN4";
+chr22	BestRefSeq	transcript	130204	135280	.	+	.	gene_id "109864272"; gene_biotype "rRNA"; gene_name "RNA28SN4"; transcript_id "109864272.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN4";
+chr22	BestRefSeq	exon	130204	135280	.	+	.	gene_id "109864272"; gene_biotype "rRNA"; gene_name "RNA28SN4"; transcript_id "109864272.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN4"; exon_id "109864272.t.e"
+chr1	BestRefSeq	gene	187565	187686	.	-	.	gene_id "100169751"; gene_biotype "rRNA"; gene_name "RNA5S1";
+chr1	BestRefSeq	transcript	187565	187686	.	-	.	gene_id "100169751"; gene_biotype "rRNA"; gene_name "RNA5S1"; transcript_id "100169751.t"; transcript_biotype "rRNA"; transcript_name "RNA5S1";
+chr1	BestRefSeq	exon	187565	187686	.	-	.	gene_id "100169751"; gene_biotype "rRNA"; gene_name "RNA5S1"; transcript_id "100169751.t"; transcript_biotype "rRNA"; transcript_name "RNA5S1"; exon_id "100169751.t.e"
+chr1	BestRefSeq	gene	189804	189924	.	-	.	gene_id "100169753"; gene_biotype "rRNA"; gene_name "RNA5S2";
+chr1	BestRefSeq	transcript	189804	189924	.	-	.	gene_id "100169753"; gene_biotype "rRNA"; gene_name "RNA5S2"; transcript_id "100169753.t"; transcript_biotype "rRNA"; transcript_name "RNA5S2";
+chr1	BestRefSeq	exon	189804	189924	.	-	.	gene_id "100169753"; gene_biotype "rRNA"; gene_name "RNA5S2"; transcript_id "100169753.t"; transcript_biotype "rRNA"; transcript_name "RNA5S2"; exon_id "100169753.t.e"
+chr1	BestRefSeq	gene	192035	192155	.	-	.	gene_id "100169754"; gene_biotype "rRNA"; gene_name "RNA5S3";
+chr1	BestRefSeq	transcript	192035	192155	.	-	.	gene_id "100169754"; gene_biotype "rRNA"; gene_name "RNA5S3"; transcript_id "100169754.t"; transcript_biotype "rRNA"; transcript_name "RNA5S3";
+chr1	BestRefSeq	exon	192035	192155	.	-	.	gene_id "100169754"; gene_biotype "rRNA"; gene_name "RNA5S3"; transcript_id "100169754.t"; transcript_biotype "rRNA"; transcript_name "RNA5S3"; exon_id "100169754.t.e"
+chr1	BestRefSeq	gene	194268	194388	.	-	.	gene_id "100169755"; gene_biotype "rRNA"; gene_name "RNA5S4";
+chr1	BestRefSeq	transcript	194268	194388	.	-	.	gene_id "100169755"; gene_biotype "rRNA"; gene_name "RNA5S4"; transcript_id "100169755.t"; transcript_biotype "rRNA"; transcript_name "RNA5S4";
+chr1	BestRefSeq	exon	194268	194388	.	-	.	gene_id "100169755"; gene_biotype "rRNA"; gene_name "RNA5S4"; transcript_id "100169755.t"; transcript_biotype "rRNA"; transcript_name "RNA5S4"; exon_id "100169755.t.e"
+chr1	BestRefSeq	gene	196503	196623	.	-	.	gene_id "100169756"; gene_biotype "rRNA"; gene_name "RNA5S5";
+chr1	BestRefSeq	transcript	196503	196623	.	-	.	gene_id "100169756"; gene_biotype "rRNA"; gene_name "RNA5S5"; transcript_id "100169756.t"; transcript_biotype "rRNA"; transcript_name "RNA5S5";
+chr1	BestRefSeq	exon	196503	196623	.	-	.	gene_id "100169756"; gene_biotype "rRNA"; gene_name "RNA5S5"; transcript_id "100169756.t"; transcript_biotype "rRNA"; transcript_name "RNA5S5"; exon_id "100169756.t.e"
+chr1	BestRefSeq	gene	198735	198855	.	-	.	gene_id "100169757"; gene_biotype "rRNA"; gene_name "RNA5S6";
+chr1	BestRefSeq	transcript	198735	198855	.	-	.	gene_id "100169757"; gene_biotype "rRNA"; gene_name "RNA5S6"; transcript_id "100169757.t"; transcript_biotype "rRNA"; transcript_name "RNA5S6";
+chr1	BestRefSeq	exon	198735	198855	.	-	.	gene_id "100169757"; gene_biotype "rRNA"; gene_name "RNA5S6"; transcript_id "100169757.t"; transcript_biotype "rRNA"; transcript_name "RNA5S6"; exon_id "100169757.t.e"
+chr1	BestRefSeq	gene	200964	201084	.	-	.	gene_id "100169758"; gene_biotype "rRNA"; gene_name "RNA5S7";
+chr1	BestRefSeq	transcript	200964	201084	.	-	.	gene_id "100169758"; gene_biotype "rRNA"; gene_name "RNA5S7"; transcript_id "100169758.t"; transcript_biotype "rRNA"; transcript_name "RNA5S7";
+chr1	BestRefSeq	exon	200964	201084	.	-	.	gene_id "100169758"; gene_biotype "rRNA"; gene_name "RNA5S7"; transcript_id "100169758.t"; transcript_biotype "rRNA"; transcript_name "RNA5S7"; exon_id "100169758.t.e"
+chr1	BestRefSeq	gene	203196	203316	.	-	.	gene_id "100169759"; gene_biotype "rRNA"; gene_name "RNA5S8";
+chr1	BestRefSeq	transcript	203196	203316	.	-	.	gene_id "100169759"; gene_biotype "rRNA"; gene_name "RNA5S8"; transcript_id "100169759.t"; transcript_biotype "rRNA"; transcript_name "RNA5S8";
+chr1	BestRefSeq	exon	203196	203316	.	-	.	gene_id "100169759"; gene_biotype "rRNA"; gene_name "RNA5S8"; transcript_id "100169759.t"; transcript_biotype "rRNA"; transcript_name "RNA5S8"; exon_id "100169759.t.e"
+chr1	BestRefSeq	gene	205435	205555	.	-	.	gene_id "100169760"; gene_biotype "rRNA"; gene_name "RNA5S9";
+chr1	BestRefSeq	transcript	205435	205555	.	-	.	gene_id "100169760"; gene_biotype "rRNA"; gene_name "RNA5S9"; transcript_id "100169760.t"; transcript_biotype "rRNA"; transcript_name "RNA5S9";
+chr1	BestRefSeq	exon	205435	205555	.	-	.	gene_id "100169760"; gene_biotype "rRNA"; gene_name "RNA5S9"; transcript_id "100169760.t"; transcript_biotype "rRNA"; transcript_name "RNA5S9"; exon_id "100169760.t.e"
+chr1	BestRefSeq	gene	207677	207797	.	-	.	gene_id "100169761"; gene_biotype "rRNA"; gene_name "RNA5S10";
+chr1	BestRefSeq	transcript	207677	207797	.	-	.	gene_id "100169761"; gene_biotype "rRNA"; gene_name "RNA5S10"; transcript_id "100169761.t"; transcript_biotype "rRNA"; transcript_name "RNA5S10";
+chr1	BestRefSeq	exon	207677	207797	.	-	.	gene_id "100169761"; gene_biotype "rRNA"; gene_name "RNA5S10"; transcript_id "100169761.t"; transcript_biotype "rRNA"; transcript_name "RNA5S10"; exon_id "100169761.t.e"
+chr1	BestRefSeq	gene	209920	210040	.	-	.	gene_id "100169762"; gene_biotype "rRNA"; gene_name "RNA5S11";
+chr1	BestRefSeq	transcript	209920	210040	.	-	.	gene_id "100169762"; gene_biotype "rRNA"; gene_name "RNA5S11"; transcript_id "100169762.t"; transcript_biotype "rRNA"; transcript_name "RNA5S11";
+chr1	BestRefSeq	exon	209920	210040	.	-	.	gene_id "100169762"; gene_biotype "rRNA"; gene_name "RNA5S11"; transcript_id "100169762.t"; transcript_biotype "rRNA"; transcript_name "RNA5S11"; exon_id "100169762.t.e"
+chr1	BestRefSeq	gene	212163	212283	.	-	.	gene_id "100169763"; gene_biotype "rRNA"; gene_name "RNA5S12";
+chr1	BestRefSeq	transcript	212163	212283	.	-	.	gene_id "100169763"; gene_biotype "rRNA"; gene_name "RNA5S12"; transcript_id "100169763.t"; transcript_biotype "rRNA"; transcript_name "RNA5S12";
+chr1	BestRefSeq	exon	212163	212283	.	-	.	gene_id "100169763"; gene_biotype "rRNA"; gene_name "RNA5S12"; transcript_id "100169763.t"; transcript_biotype "rRNA"; transcript_name "RNA5S12"; exon_id "100169763.t.e"
+chr1	BestRefSeq	gene	214405	214525	.	-	.	gene_id "100169764"; gene_biotype "rRNA"; gene_name "RNA5S13";
+chr1	BestRefSeq	transcript	214405	214525	.	-	.	gene_id "100169764"; gene_biotype "rRNA"; gene_name "RNA5S13"; transcript_id "100169764.t"; transcript_biotype "rRNA"; transcript_name "RNA5S13";
+chr1	BestRefSeq	exon	214405	214525	.	-	.	gene_id "100169764"; gene_biotype "rRNA"; gene_name "RNA5S13"; transcript_id "100169764.t"; transcript_biotype "rRNA"; transcript_name "RNA5S13"; exon_id "100169764.t.e"
+chr1	BestRefSeq	gene	216644	216764	.	-	.	gene_id "100169765"; gene_biotype "rRNA"; gene_name "RNA5S14";
+chr1	BestRefSeq	transcript	216644	216764	.	-	.	gene_id "100169765"; gene_biotype "rRNA"; gene_name "RNA5S14"; transcript_id "100169765.t"; transcript_biotype "rRNA"; transcript_name "RNA5S14";
+chr1	BestRefSeq	exon	216644	216764	.	-	.	gene_id "100169765"; gene_biotype "rRNA"; gene_name "RNA5S14"; transcript_id "100169765.t"; transcript_biotype "rRNA"; transcript_name "RNA5S14"; exon_id "100169765.t.e"
+chr1	BestRefSeq	gene	218885	219005	.	-	.	gene_id "100169766"; gene_biotype "rRNA"; gene_name "RNA5S15";
+chr1	BestRefSeq	transcript	218885	219005	.	-	.	gene_id "100169766"; gene_biotype "rRNA"; gene_name "RNA5S15"; transcript_id "100169766.t"; transcript_biotype "rRNA"; transcript_name "RNA5S15";
+chr1	BestRefSeq	exon	218885	219005	.	-	.	gene_id "100169766"; gene_biotype "rRNA"; gene_name "RNA5S15"; transcript_id "100169766.t"; transcript_biotype "rRNA"; transcript_name "RNA5S15"; exon_id "100169766.t.e"
+chr1	BestRefSeq	gene	221125	221245	.	-	.	gene_id "100169767"; gene_biotype "rRNA"; gene_name "RNA5S16";
+chr1	BestRefSeq	transcript	221125	221245	.	-	.	gene_id "100169767"; gene_biotype "rRNA"; gene_name "RNA5S16"; transcript_id "100169767.t"; transcript_biotype "rRNA"; transcript_name "RNA5S16";
+chr1	BestRefSeq	exon	221125	221245	.	-	.	gene_id "100169767"; gene_biotype "rRNA"; gene_name "RNA5S16"; transcript_id "100169767.t"; transcript_biotype "rRNA"; transcript_name "RNA5S16"; exon_id "100169767.t.e"
+chr1	BestRefSeq	gene	223367	223487	.	-	.	gene_id "100169768"; gene_biotype "rRNA"; gene_name "RNA5S17";
+chr1	BestRefSeq	transcript	223367	223487	.	-	.	gene_id "100169768"; gene_biotype "rRNA"; gene_name "RNA5S17"; transcript_id "100169768.t"; transcript_biotype "rRNA"; transcript_name "RNA5S17";
+chr1	BestRefSeq	exon	223367	223487	.	-	.	gene_id "100169768"; gene_biotype "rRNA"; gene_name "RNA5S17"; transcript_id "100169768.t"; transcript_biotype "rRNA"; transcript_name "RNA5S17"; exon_id "100169768.t.e"
+chr21	BestRefSeq	gene	436160	449468	.	+	.	gene_id "109910379"; gene_biotype "rRNA"; gene_name "RNA45SN3";
+chr21	BestRefSeq	transcript	436160	449468	.	+	.	gene_id "109910379"; gene_biotype "rRNA"; gene_name "RNA45SN3"; transcript_id "109910379.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN3";
+chr21	BestRefSeq	exon	436160	449468	.	+	.	gene_id "109910379"; gene_biotype "rRNA"; gene_name "RNA45SN3"; transcript_id "109910379.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN3"; exon_id "109910379.t.e"
+chr21	BestRefSeq	gene	439791	441659	.	+	.	gene_id "109910380"; gene_biotype "rRNA"; gene_name "RNA18SN3";
+chr21	BestRefSeq	transcript	439791	441659	.	+	.	gene_id "109910380"; gene_biotype "rRNA"; gene_name "RNA18SN3"; transcript_id "109910380.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN3";
+chr21	BestRefSeq	exon	439791	441659	.	+	.	gene_id "109910380"; gene_biotype "rRNA"; gene_name "RNA18SN3"; transcript_id "109910380.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN3"; exon_id "109910380.t.e"
+chr21	BestRefSeq	gene	442731	442887	.	+	.	gene_id "109910381"; gene_biotype "rRNA"; gene_name "RNA5-8SN3";
+chr21	BestRefSeq	transcript	442731	442887	.	+	.	gene_id "109910381"; gene_biotype "rRNA"; gene_name "RNA5-8SN3"; transcript_id "109910381.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN3";
+chr21	BestRefSeq	exon	442731	442887	.	+	.	gene_id "109910381"; gene_biotype "rRNA"; gene_name "RNA5-8SN3"; transcript_id "109910381.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN3"; exon_id "109910381.t.e"
+chr21	BestRefSeq	gene	444051	449105	.	+	.	gene_id "109910382"; gene_biotype "rRNA"; gene_name "RNA28SN3";
+chr21	BestRefSeq	transcript	444051	449105	.	+	.	gene_id "109910382"; gene_biotype "rRNA"; gene_name "RNA28SN3"; transcript_id "109910382.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN3";
+chr21	BestRefSeq	exon	444051	449105	.	+	.	gene_id "109910382"; gene_biotype "rRNA"; gene_name "RNA28SN3"; transcript_id "109910382.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN3"; exon_id "109910382.t.e"
+chr21	BestRefSeq	gene	480347	493697	.	+	.	gene_id "106631777"; gene_biotype "rRNA"; gene_name "RNA45SN1";
+chr21	BestRefSeq	transcript	480347	493697	.	+	.	gene_id "106631777"; gene_biotype "rRNA"; gene_name "RNA45SN1"; transcript_id "106631777.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN1";
+chr21	BestRefSeq	exon	480347	493697	.	+	.	gene_id "106631777"; gene_biotype "rRNA"; gene_name "RNA45SN1"; transcript_id "106631777.t"; transcript_biotype "rRNA"; transcript_name "RNA45SN1"; exon_id "106631777.t.e"
+chr21	BestRefSeq	gene	484001	485869	.	+	.	gene_id "106631781"; gene_biotype "rRNA"; gene_name "RNA18SN1";
+chr21	BestRefSeq	transcript	484001	485869	.	+	.	gene_id "106631781"; gene_biotype "rRNA"; gene_name "RNA18SN1"; transcript_id "106631781.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN1";
+chr21	BestRefSeq	exon	484001	485869	.	+	.	gene_id "106631781"; gene_biotype "rRNA"; gene_name "RNA18SN1"; transcript_id "106631781.t"; transcript_biotype "rRNA"; transcript_name "RNA18SN1"; exon_id "106631781.t.e"
+chr21	BestRefSeq	gene	486947	487103	.	+	.	gene_id "106632260"; gene_biotype "rRNA"; gene_name "RNA5-8SN1";
+chr21	BestRefSeq	transcript	486947	487103	.	+	.	gene_id "106632260"; gene_biotype "rRNA"; gene_name "RNA5-8SN1"; transcript_id "106632260.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN1";
+chr21	BestRefSeq	exon	486947	487103	.	+	.	gene_id "106632260"; gene_biotype "rRNA"; gene_name "RNA5-8SN1"; transcript_id "106632260.t"; transcript_biotype "rRNA"; transcript_name "RNA5-8SN1"; exon_id "106632260.t.e"
+chr21	BestRefSeq	gene	488271	493336	.	+	.	gene_id "106632264"; gene_biotype "rRNA"; gene_name "RNA28SN1";
+chr21	BestRefSeq	transcript	488271	493336	.	+	.	gene_id "106632264"; gene_biotype "rRNA"; gene_name "RNA28SN1"; transcript_id "106632264.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN1";
+chr21	BestRefSeq	exon	488271	493336	.	+	.	gene_id "106632264"; gene_biotype "rRNA"; gene_name "RNA28SN1"; transcript_id "106632264.t"; transcript_biotype "rRNA"; transcript_name "RNA28SN1"; exon_id "106632264.t.e"
