@@ -120,6 +120,8 @@ workflow {
     // main workflow 
     //
     
-    demux_wf()
+    demux_wf(
+    sheet_file, runDir
+    )
 
 }
