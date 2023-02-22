@@ -54,8 +54,6 @@ def helpMessage() {
 
 // import modules
 include { demux_wf } from './modules/demux_wf'
-include { quality_wf } from './modules/quality'
-include { align_wf } from './modules/align'
 
 
 // main workflow
