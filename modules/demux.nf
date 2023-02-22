@@ -8,7 +8,7 @@ nextflow.enable.dsl=2
 
 //convert extended to standard sample sheet
 process convert_sample_sheet {
-    tag "$sheet"
+    tag "$sheet_file"
     label 'process_low'
     publishDir path: "${params.outdir}/", mode: 'copy'
  
@@ -102,6 +102,8 @@ workflow demux_wf{
     // combine files
     fastqs = Channel.empty()
     fastqs_ch = fastqs.mix(fqname_fqfile_ch, undetermined_fqfile_ch)
+    fastqs_ch
+    .view()
     
     emit:
     fastq_files = fastqs_ch
