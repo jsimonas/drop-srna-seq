@@ -50,8 +50,8 @@ process bcl_to_fastq {
     params.run_module.equals('complete') || params.run_module.equals('demux') 
 
     output:
-    tuple val(meta), path("*/**{R1,R2,R3}_001.fastq.gz"), emit: fastqs
-    tuple val(meta), path("*{R1,R2,R3}_001.fastq.gz"), emit: und_fastqs
+    path "*/**{R1,R2,R3}_001.fastq.gz", emit: fastqs
+    path "*{R1,R2,R3}_001.fastq.gz", emit: und_fastqs
     path "Stats", emit: demux_stats
 
     script:
