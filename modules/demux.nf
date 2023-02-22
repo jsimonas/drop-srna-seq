@@ -51,7 +51,7 @@ process bcl_to_fastq {
 
     output:
     tuple val(meta), path("*/**{R1,R2,R3}_001.fastq.gz"), emit: fastqs
-    tuple val(meta), path("*{R1,R2,R3}_001.fastq.gz", emit: und_fastqs
+    tuple val(meta), path("*{R1,R2,R3}_001.fastq.gz"), emit: und_fastqs
     path "Stats", emit: demux_stats
 
     script:
