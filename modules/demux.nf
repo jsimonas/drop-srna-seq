@@ -50,8 +50,8 @@ process bcl_to_fastq {
     params.run_module.equals('complete') || params.run_module.equals('demux') 
 
     output:
-    path "*/**{R1,R2,R3}_001.fastq.gz", emit: fastqs
-    path "*{R1,R2,R3}_001.fastq.gz", emit: und_fastqs
+    path "*/*{R1,R2,R3}_001.fastq.gz", emit: fastqs
+    path "*{R1,R2,R3}_001.fastq.gz", emit: ufastqs
     path "Stats", emit: demux_stats
 
     script:
@@ -94,7 +94,7 @@ workflow demux_wf{
     .map{
         file -> [file.getParent().getName(), file]
         }
-    undetermined_fqfile_ch = bcl_to_fastq.out.und_fastqs
+    undetermined_fqfile_ch = bcl_to_fastq.out.ufastqs
     .flatten()
     .map{
         file -> ["Undetermined", file]
