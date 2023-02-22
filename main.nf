@@ -53,7 +53,7 @@ def helpMessage() {
 }
 
 // import modules
-include { demux_wf } from './modules/demux_wf'
+include { demux_wf } from './modules/demux'
 
 
 // main workflow
