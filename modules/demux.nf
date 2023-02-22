@@ -83,7 +83,7 @@ workflow demux_wf{
     convert_sample_sheet(sheet_file)
 
     //convert bcl to fastq files
-    bcl_to_fastq(convert_sample_sheet.out.sheet)
+    bcl_to_fastq(convert_sample_sheet.out.sheet, runDir)
 
     // combine the stats reports
     //multiqc_demux(bcl_to_fastq.out.demux_stats.toSortedList())
