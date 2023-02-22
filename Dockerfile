@@ -4,8 +4,8 @@ FROM ubuntu:latest
 LABEL author="Simonas Juzenas" \
       description="Docker image containing all required tools for drop-srna-seq pipeline"
 
-# Update the package manager and install wget
-RUN apt-get update && apt-get install -y wget
+# Update the package manager and install wget and git
+RUN apt-get update && apt-get install -y wget git
 
 # Download and install Miniconda
 RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh && \
