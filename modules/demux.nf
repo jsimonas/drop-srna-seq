@@ -23,7 +23,7 @@ process convert_sample_sheet {
     
     script:
     """
-    convert_to_samplesheet.py --file $sheet --out "standard_samplesheet.csv"
+    convert_to_samplesheet.py --file $sheet_file --out "standard_samplesheet.csv"
     """
 }
 
